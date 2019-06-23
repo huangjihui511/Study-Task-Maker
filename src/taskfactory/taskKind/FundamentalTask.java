@@ -1,4 +1,4 @@
-package taskfactory.taskind;
+package taskfactory.taskKind;
 
 import taskfactory.taskDate.TaskDate;
 

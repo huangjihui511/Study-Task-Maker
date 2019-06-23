@@ -1,4 +1,7 @@
 package taskmanager.booksmanager;
 
-public class BooksChapterTypes {
+public enum  BooksChapterTypes {
+    SINGLE,
+    DOUBLE,
+    HALF;
 }

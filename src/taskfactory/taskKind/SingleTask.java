@@ -1,4 +1,4 @@
-package taskfactory.taskind;
+package taskfactory.taskKind;
 
 public interface SingleTask {
     public boolean isfinished();
