@@ -22,6 +22,7 @@ public class BooksManager {
                         new Scanner(new BufferedReader(new FileReader(file.getAbsolutePath())));
                 Book book = new Book(scanner);
                 books.put(book.getBookname(),book);
+                System.out.println("loading the book " + book.getBookname() + " successfully");
             }
         }
         else {
